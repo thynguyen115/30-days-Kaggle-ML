@@ -1,8 +1,8 @@
 # 30 days of Kaggle Machine Learning
-- Day 1: 
+- __Day 1__: 
   - Titanic dataset:
     - Keyword: RandomForest, Decision Trees 
--  Day 2:
--  Day 3:
--  Day 4:
--  Day 5:
+-  __Day 2__:
+-  __Day 3__:
+-  __Day 4__:
+-  __Day 5__:
