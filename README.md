@@ -15,3 +15,9 @@
 - __Day 5__:
   - Python tutorial
     - Keyword: Lists and Loops  
+- __Day 6__:
+  - Python tutorial
+    - Keyword: Funcs and Dictionaries
+- __Day 7__"
+  - Python tutorial:
+    - Keyword: External funcs    
