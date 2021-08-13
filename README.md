@@ -7,6 +7,7 @@
      - Keyword: (3) Math Syntax; (4) Functions; (4) Booleans (e.g. xor = ^);
      - (4) Boolean Arithmetics: return (int(ketchup) + int(mustard) + int(onion)) == 1; return (ketchup + mustard + onion) == 1
      - (5) Lists and Loops; (6) Funcs and Dictionaries; (7) External funcs
-- __Day 8 to ...:
+- __Day 8 to Day 11__:
   - Intro to ML:
-    - Keyword:  
+    - Keyword: Under/Overfitting, Model Validation, Random Forests
+- __Day 12 to ...: 
