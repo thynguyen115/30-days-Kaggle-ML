@@ -2,22 +2,11 @@
 - __Day 1__: 
   - Titanic dataset: https://github.com/thynguyen115/30-days-Kaggle-ML/blob/main/titanic_notebook.txt
     - Keyword: ScikitLearn, RandomForest, Decision Trees 
-- __Day 2__:
+- __Day 2 to Day 7__:
   - Python tutorial
-     - Keyword: Math Syntax  
-- __Day 3__:
-  - Python tutorial
-    - Keyword: Functions
-- __Day 4__:
-  - Python tutorial
-    - Keyword: Booleans (e.g. xor = ^);
-    - Boolean Arithmetics: return (int(ketchup) + int(mustard) + int(onion)) == 1; return (ketchup + mustard + onion) == 1
-- __Day 5__:
-  - Python tutorial
-    - Keyword: Lists and Loops  
-- __Day 6__:
-  - Python tutorial
-    - Keyword: Funcs and Dictionaries
-- __Day 7__"
-  - Python tutorial:
-    - Keyword: External funcs    
+     - Keyword: (3) Math Syntax; (4) Functions; (4) Booleans (e.g. xor = ^);
+     - (4) Boolean Arithmetics: return (int(ketchup) + int(mustard) + int(onion)) == 1; return (ketchup + mustard + onion) == 1
+     - (5) Lists and Loops; (6) Funcs and Dictionaries; (7) External funcs
+- __Day 8 to ...:
+  - Intro to ML:
+    - Keyword:  
